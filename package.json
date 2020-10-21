@@ -1,0 +1,33 @@
+{
+  "name": "svitsoftgallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaKuvshinova/svitSoftGallery.git"
+  },
+  "author": "Kuvshinova Maryna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaKuvshinova/svitSoftGallery/issues"
+  },
+  "homepage": "https://github.com/MarinaKuvshinova/svitSoftGallery#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "merge-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
